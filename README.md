@@ -51,8 +51,8 @@ Given the extensive datasets, feature engineering emerged as a critical componen
 From implementing machine learning algorithms such as LG Boost to fine-tuning parameters and evaluating performance metrics, I developed proficiency in model development and assessment. This enabled informed decision-making based on result interpretation, aligned with the business requirements of Home Credit.
 
 ## Attachments
-**[EDA Notebook](https://github.com/Sarvii23/Mukagen/blob/main/EDA_Capstone_MSBA.ipynb)**
+**[EDA Notebook](https://github.com/Sarvii23/MSBA-Career-Capstone/blob/main/EDA_Capstone_MSBA.ipynb)**
 
-**[Modeling Notebook](https://github.com/Sarvii23/Mukagen/blob/main/Modelling_Capstone_MSBA.ipynb)**
+**[Modeling Notebook](https://github.com/Sarvii23/MSBA-Career-Capstone/blob/main/Modelling_Capstone_MSBA.ipynb)**
 
-**[Presentation](https://github.com/Sarvii23/Mukagen/blob/main/Capstone%202024-%20Group%207%20.pptx)**
+**[Presentation](https://github.com/Sarvii23/MSBA-Career-Capstone/blob/main/Capstone%202024-%20Group%207%20.pptx)**
